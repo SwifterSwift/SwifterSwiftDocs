@@ -1,0 +1,3218 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/Foundation/DateExtensions.swift",
+      "line": 20,
+      "symbol": "Date.DayNameStyle.threeLetters",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/Foundation/DateExtensions.swift",
+      "line": 21,
+      "symbol": "Date.DayNameStyle.oneLetter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/Foundation/DateExtensions.swift",
+      "line": 22,
+      "symbol": "Date.DayNameStyle.full",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/Foundation/DateExtensions.swift",
+      "line": 31,
+      "symbol": "Date.MonthNameStyle.threeLetters",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/Foundation/DateExtensions.swift",
+      "line": 32,
+      "symbol": "Date.MonthNameStyle.oneLetter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/Foundation/DateExtensions.swift",
+      "line": 33,
+      "symbol": "Date.MonthNameStyle.full",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 18,
+      "symbol": "UIButton.imageForDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 29,
+      "symbol": "UIButton.imageForHighlighted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 40,
+      "symbol": "UIButton.imageForNormal",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 51,
+      "symbol": "UIButton.imageForSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 62,
+      "symbol": "UIButton.titleColorForDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 73,
+      "symbol": "UIButton.titleColorForHighlighted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 84,
+      "symbol": "UIButton.titleColorForNormal",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 95,
+      "symbol": "UIButton.titleColorForSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 106,
+      "symbol": "UIButton.titleForDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 117,
+      "symbol": "UIButton.titleForHighlighted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 128,
+      "symbol": "UIButton.titleForNormal",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIButtonExtensions.swift",
+      "line": 139,
+      "symbol": "UIButton.titleForSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 317,
+      "symbol": "UIColor.material.red",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 318,
+      "symbol": "UIColor.material.red50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 319,
+      "symbol": "UIColor.material.red100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 320,
+      "symbol": "UIColor.material.red200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 321,
+      "symbol": "UIColor.material.red300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 322,
+      "symbol": "UIColor.material.red400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 323,
+      "symbol": "UIColor.material.red500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 324,
+      "symbol": "UIColor.material.red600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 325,
+      "symbol": "UIColor.material.red700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 326,
+      "symbol": "UIColor.material.red800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 327,
+      "symbol": "UIColor.material.red900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 328,
+      "symbol": "UIColor.material.redA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 329,
+      "symbol": "UIColor.material.redA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 330,
+      "symbol": "UIColor.material.redA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 331,
+      "symbol": "UIColor.material.redA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 333,
+      "symbol": "UIColor.material.pink",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 334,
+      "symbol": "UIColor.material.pink50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 335,
+      "symbol": "UIColor.material.pink100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 336,
+      "symbol": "UIColor.material.pink200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 337,
+      "symbol": "UIColor.material.pink300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 338,
+      "symbol": "UIColor.material.pink400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 339,
+      "symbol": "UIColor.material.pink500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 340,
+      "symbol": "UIColor.material.pink600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 341,
+      "symbol": "UIColor.material.pink700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 342,
+      "symbol": "UIColor.material.pink800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 343,
+      "symbol": "UIColor.material.pink900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 344,
+      "symbol": "UIColor.material.pinkA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 345,
+      "symbol": "UIColor.material.pinkA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 346,
+      "symbol": "UIColor.material.pinkA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 347,
+      "symbol": "UIColor.material.pinkA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 349,
+      "symbol": "UIColor.material.purple",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 350,
+      "symbol": "UIColor.material.purple50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 351,
+      "symbol": "UIColor.material.purple100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 352,
+      "symbol": "UIColor.material.purple200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 353,
+      "symbol": "UIColor.material.purple300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 354,
+      "symbol": "UIColor.material.purple400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 355,
+      "symbol": "UIColor.material.purple500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 356,
+      "symbol": "UIColor.material.purple600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 357,
+      "symbol": "UIColor.material.purple700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 358,
+      "symbol": "UIColor.material.purple800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 359,
+      "symbol": "UIColor.material.purple900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 360,
+      "symbol": "UIColor.material.purpleA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 361,
+      "symbol": "UIColor.material.purpleA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 362,
+      "symbol": "UIColor.material.purpleA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 363,
+      "symbol": "UIColor.material.purpleA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 365,
+      "symbol": "UIColor.material.deepPurple",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 366,
+      "symbol": "UIColor.material.deepPurple50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 367,
+      "symbol": "UIColor.material.deepPurple100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 368,
+      "symbol": "UIColor.material.deepPurple200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 369,
+      "symbol": "UIColor.material.deepPurple300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 370,
+      "symbol": "UIColor.material.deepPurple400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 371,
+      "symbol": "UIColor.material.deepPurple500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 372,
+      "symbol": "UIColor.material.deepPurple600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 373,
+      "symbol": "UIColor.material.deepPurple700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 374,
+      "symbol": "UIColor.material.deepPurple800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 375,
+      "symbol": "UIColor.material.deepPurple900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 376,
+      "symbol": "UIColor.material.deepPurpleA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 377,
+      "symbol": "UIColor.material.deepPurpleA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 378,
+      "symbol": "UIColor.material.deepPurpleA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 379,
+      "symbol": "UIColor.material.deepPurpleA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 381,
+      "symbol": "UIColor.material.indigo",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 382,
+      "symbol": "UIColor.material.indigo50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 383,
+      "symbol": "UIColor.material.indigo100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 384,
+      "symbol": "UIColor.material.indigo200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 385,
+      "symbol": "UIColor.material.indigo300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 386,
+      "symbol": "UIColor.material.indigo400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 387,
+      "symbol": "UIColor.material.indigo500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 388,
+      "symbol": "UIColor.material.indigo600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 389,
+      "symbol": "UIColor.material.indigo700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 390,
+      "symbol": "UIColor.material.indigo800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 391,
+      "symbol": "UIColor.material.indigo900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 392,
+      "symbol": "UIColor.material.indigoA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 393,
+      "symbol": "UIColor.material.indigoA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 394,
+      "symbol": "UIColor.material.indigoA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 395,
+      "symbol": "UIColor.material.indigoA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 397,
+      "symbol": "UIColor.material.blue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 398,
+      "symbol": "UIColor.material.blue50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 399,
+      "symbol": "UIColor.material.blue100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 400,
+      "symbol": "UIColor.material.blue200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 401,
+      "symbol": "UIColor.material.blue300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 402,
+      "symbol": "UIColor.material.blue400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 403,
+      "symbol": "UIColor.material.blue500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 404,
+      "symbol": "UIColor.material.blue600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 405,
+      "symbol": "UIColor.material.blue700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 406,
+      "symbol": "UIColor.material.blue800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 407,
+      "symbol": "UIColor.material.blue900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 408,
+      "symbol": "UIColor.material.blueA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 409,
+      "symbol": "UIColor.material.blueA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 410,
+      "symbol": "UIColor.material.blueA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 411,
+      "symbol": "UIColor.material.blueA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 413,
+      "symbol": "UIColor.material.lightBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 414,
+      "symbol": "UIColor.material.lightBlue50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 415,
+      "symbol": "UIColor.material.lightBlue100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 416,
+      "symbol": "UIColor.material.lightBlue200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 417,
+      "symbol": "UIColor.material.lightBlue300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 418,
+      "symbol": "UIColor.material.lightBlue400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 419,
+      "symbol": "UIColor.material.lightBlue500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 420,
+      "symbol": "UIColor.material.lightBlue600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 421,
+      "symbol": "UIColor.material.lightBlue700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 422,
+      "symbol": "UIColor.material.lightBlue800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 423,
+      "symbol": "UIColor.material.lightBlue900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 424,
+      "symbol": "UIColor.material.lightBlueA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 425,
+      "symbol": "UIColor.material.lightBlueA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 426,
+      "symbol": "UIColor.material.lightBlueA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 427,
+      "symbol": "UIColor.material.lightBlueA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 429,
+      "symbol": "UIColor.material.cyan",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 430,
+      "symbol": "UIColor.material.cyan50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 431,
+      "symbol": "UIColor.material.cyan100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 432,
+      "symbol": "UIColor.material.cyan200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 433,
+      "symbol": "UIColor.material.cyan300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 434,
+      "symbol": "UIColor.material.cyan400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 435,
+      "symbol": "UIColor.material.cyan500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 436,
+      "symbol": "UIColor.material.cyan600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 437,
+      "symbol": "UIColor.material.cyan700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 438,
+      "symbol": "UIColor.material.cyan800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 439,
+      "symbol": "UIColor.material.cyan900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 440,
+      "symbol": "UIColor.material.cyanA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 441,
+      "symbol": "UIColor.material.cyanA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 442,
+      "symbol": "UIColor.material.cyanA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 443,
+      "symbol": "UIColor.material.cyanA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 445,
+      "symbol": "UIColor.material.teal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 446,
+      "symbol": "UIColor.material.teal50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 447,
+      "symbol": "UIColor.material.teal100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 448,
+      "symbol": "UIColor.material.teal200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 449,
+      "symbol": "UIColor.material.teal300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 450,
+      "symbol": "UIColor.material.teal400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 451,
+      "symbol": "UIColor.material.teal500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 452,
+      "symbol": "UIColor.material.teal600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 453,
+      "symbol": "UIColor.material.teal700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 454,
+      "symbol": "UIColor.material.teal800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 455,
+      "symbol": "UIColor.material.teal900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 456,
+      "symbol": "UIColor.material.tealA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 457,
+      "symbol": "UIColor.material.tealA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 458,
+      "symbol": "UIColor.material.tealA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 459,
+      "symbol": "UIColor.material.tealA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 461,
+      "symbol": "UIColor.material.green",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 462,
+      "symbol": "UIColor.material.green50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 463,
+      "symbol": "UIColor.material.green100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 464,
+      "symbol": "UIColor.material.green200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 465,
+      "symbol": "UIColor.material.green300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 466,
+      "symbol": "UIColor.material.green400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 467,
+      "symbol": "UIColor.material.green500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 468,
+      "symbol": "UIColor.material.green600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 469,
+      "symbol": "UIColor.material.green700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 470,
+      "symbol": "UIColor.material.green800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 471,
+      "symbol": "UIColor.material.green900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 472,
+      "symbol": "UIColor.material.greenA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 473,
+      "symbol": "UIColor.material.greenA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 474,
+      "symbol": "UIColor.material.greenA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 475,
+      "symbol": "UIColor.material.greenA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 477,
+      "symbol": "UIColor.material.lightGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 478,
+      "symbol": "UIColor.material.lightGreen50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 479,
+      "symbol": "UIColor.material.lightGreen100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 480,
+      "symbol": "UIColor.material.lightGreen200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 481,
+      "symbol": "UIColor.material.lightGreen300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 482,
+      "symbol": "UIColor.material.lightGreen400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 483,
+      "symbol": "UIColor.material.lightGreen500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 484,
+      "symbol": "UIColor.material.lightGreen600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 485,
+      "symbol": "UIColor.material.lightGreen700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 486,
+      "symbol": "UIColor.material.lightGreen800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 487,
+      "symbol": "UIColor.material.lightGreen900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 488,
+      "symbol": "UIColor.material.lightGreenA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 489,
+      "symbol": "UIColor.material.lightGreenA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 490,
+      "symbol": "UIColor.material.lightGreenA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 491,
+      "symbol": "UIColor.material.lightGreenA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 493,
+      "symbol": "UIColor.material.lime",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 494,
+      "symbol": "UIColor.material.lime50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 495,
+      "symbol": "UIColor.material.lime100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 496,
+      "symbol": "UIColor.material.lime200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 497,
+      "symbol": "UIColor.material.lime300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 498,
+      "symbol": "UIColor.material.lime400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 499,
+      "symbol": "UIColor.material.lime500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 500,
+      "symbol": "UIColor.material.lime600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 501,
+      "symbol": "UIColor.material.lime700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 502,
+      "symbol": "UIColor.material.lime800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 503,
+      "symbol": "UIColor.material.lime900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 504,
+      "symbol": "UIColor.material.limeA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 505,
+      "symbol": "UIColor.material.limeA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 506,
+      "symbol": "UIColor.material.limeA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 507,
+      "symbol": "UIColor.material.limeA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 509,
+      "symbol": "UIColor.material.yellow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 510,
+      "symbol": "UIColor.material.yellow50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 511,
+      "symbol": "UIColor.material.yellow100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 512,
+      "symbol": "UIColor.material.yellow200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 513,
+      "symbol": "UIColor.material.yellow300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 514,
+      "symbol": "UIColor.material.yellow400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 515,
+      "symbol": "UIColor.material.yellow500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 516,
+      "symbol": "UIColor.material.yellow600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 517,
+      "symbol": "UIColor.material.yellow700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 518,
+      "symbol": "UIColor.material.yellow800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 519,
+      "symbol": "UIColor.material.yellow900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 520,
+      "symbol": "UIColor.material.yellowA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 521,
+      "symbol": "UIColor.material.yellowA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 522,
+      "symbol": "UIColor.material.yellowA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 523,
+      "symbol": "UIColor.material.yellowA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 525,
+      "symbol": "UIColor.material.amber",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 526,
+      "symbol": "UIColor.material.amber50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 527,
+      "symbol": "UIColor.material.amber100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 528,
+      "symbol": "UIColor.material.amber200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 529,
+      "symbol": "UIColor.material.amber300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 530,
+      "symbol": "UIColor.material.amber400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 531,
+      "symbol": "UIColor.material.amber500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 532,
+      "symbol": "UIColor.material.amber600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 533,
+      "symbol": "UIColor.material.amber700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 534,
+      "symbol": "UIColor.material.amber800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 535,
+      "symbol": "UIColor.material.amber900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 536,
+      "symbol": "UIColor.material.amberA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 537,
+      "symbol": "UIColor.material.amberA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 538,
+      "symbol": "UIColor.material.amberA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 539,
+      "symbol": "UIColor.material.amberA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 541,
+      "symbol": "UIColor.material.orange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 542,
+      "symbol": "UIColor.material.orange50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 543,
+      "symbol": "UIColor.material.orange100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 544,
+      "symbol": "UIColor.material.orange200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 545,
+      "symbol": "UIColor.material.orange300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 546,
+      "symbol": "UIColor.material.orange400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 547,
+      "symbol": "UIColor.material.orange500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 548,
+      "symbol": "UIColor.material.orange600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 549,
+      "symbol": "UIColor.material.orange700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 550,
+      "symbol": "UIColor.material.orange800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 551,
+      "symbol": "UIColor.material.orange900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 552,
+      "symbol": "UIColor.material.orangeA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 553,
+      "symbol": "UIColor.material.orangeA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 554,
+      "symbol": "UIColor.material.orangeA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 555,
+      "symbol": "UIColor.material.orangeA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 557,
+      "symbol": "UIColor.material.deepOrange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 558,
+      "symbol": "UIColor.material.deepOrange50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 559,
+      "symbol": "UIColor.material.deepOrange100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 560,
+      "symbol": "UIColor.material.deepOrange200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 561,
+      "symbol": "UIColor.material.deepOrange300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 562,
+      "symbol": "UIColor.material.deepOrange400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 563,
+      "symbol": "UIColor.material.deepOrange500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 564,
+      "symbol": "UIColor.material.deepOrange600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 565,
+      "symbol": "UIColor.material.deepOrange700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 566,
+      "symbol": "UIColor.material.deepOrange800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 567,
+      "symbol": "UIColor.material.deepOrange900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 568,
+      "symbol": "UIColor.material.deepOrangeA100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 569,
+      "symbol": "UIColor.material.deepOrangeA200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 570,
+      "symbol": "UIColor.material.deepOrangeA400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 571,
+      "symbol": "UIColor.material.deepOrangeA700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 573,
+      "symbol": "UIColor.material.brown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 574,
+      "symbol": "UIColor.material.brown50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 575,
+      "symbol": "UIColor.material.brown100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 576,
+      "symbol": "UIColor.material.brown200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 577,
+      "symbol": "UIColor.material.brown300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 578,
+      "symbol": "UIColor.material.brown400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 579,
+      "symbol": "UIColor.material.brown500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 580,
+      "symbol": "UIColor.material.brown600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 581,
+      "symbol": "UIColor.material.brown700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 582,
+      "symbol": "UIColor.material.brown800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 583,
+      "symbol": "UIColor.material.brown900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 585,
+      "symbol": "UIColor.material.grey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 586,
+      "symbol": "UIColor.material.grey50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 587,
+      "symbol": "UIColor.material.grey100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 588,
+      "symbol": "UIColor.material.grey200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 589,
+      "symbol": "UIColor.material.grey300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 590,
+      "symbol": "UIColor.material.grey400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 591,
+      "symbol": "UIColor.material.grey500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 592,
+      "symbol": "UIColor.material.grey600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 593,
+      "symbol": "UIColor.material.grey700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 594,
+      "symbol": "UIColor.material.grey800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 595,
+      "symbol": "UIColor.material.grey900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 597,
+      "symbol": "UIColor.material.blueGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 598,
+      "symbol": "UIColor.material.blueGrey50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 599,
+      "symbol": "UIColor.material.blueGrey100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 600,
+      "symbol": "UIColor.material.blueGrey200",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 601,
+      "symbol": "UIColor.material.blueGrey300",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 602,
+      "symbol": "UIColor.material.blueGrey400",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 603,
+      "symbol": "UIColor.material.blueGrey500",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 604,
+      "symbol": "UIColor.material.blueGrey600",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 605,
+      "symbol": "UIColor.material.blueGrey700",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 606,
+      "symbol": "UIColor.material.blueGrey800",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 607,
+      "symbol": "UIColor.material.blueGrey900",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 609,
+      "symbol": "UIColor.material.black",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 610,
+      "symbol": "UIColor.material.white",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 621,
+      "symbol": "UIColor.css.aliceBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 622,
+      "symbol": "UIColor.css.antiqueWhite",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 623,
+      "symbol": "UIColor.css.aqua",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 624,
+      "symbol": "UIColor.css.aquamarine",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 625,
+      "symbol": "UIColor.css.azure",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 626,
+      "symbol": "UIColor.css.beige",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 627,
+      "symbol": "UIColor.css.bisque",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 628,
+      "symbol": "UIColor.css.black",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 629,
+      "symbol": "UIColor.css.blanchedAlmond",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 630,
+      "symbol": "UIColor.css.blue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 631,
+      "symbol": "UIColor.css.blueViolet",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 632,
+      "symbol": "UIColor.css.brown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 633,
+      "symbol": "UIColor.css.burlyWood",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 634,
+      "symbol": "UIColor.css.cadetBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 635,
+      "symbol": "UIColor.css.chartreuse",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 636,
+      "symbol": "UIColor.css.chocolate",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 637,
+      "symbol": "UIColor.css.coral",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 638,
+      "symbol": "UIColor.css.cornflowerBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 639,
+      "symbol": "UIColor.css.cornsilk",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 640,
+      "symbol": "UIColor.css.crimson",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 641,
+      "symbol": "UIColor.css.cyan",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 642,
+      "symbol": "UIColor.css.darkBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 643,
+      "symbol": "UIColor.css.darkCyan",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 644,
+      "symbol": "UIColor.css.darkGoldenRod",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 645,
+      "symbol": "UIColor.css.darkGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 646,
+      "symbol": "UIColor.css.darkGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 647,
+      "symbol": "UIColor.css.darkGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 648,
+      "symbol": "UIColor.css.darkKhaki",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 649,
+      "symbol": "UIColor.css.darkMagenta",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 650,
+      "symbol": "UIColor.css.darkOliveGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 651,
+      "symbol": "UIColor.css.darkOrange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 652,
+      "symbol": "UIColor.css.darkOrchid",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 653,
+      "symbol": "UIColor.css.darkRed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 654,
+      "symbol": "UIColor.css.darkSalmon",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 655,
+      "symbol": "UIColor.css.darkSeaGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 656,
+      "symbol": "UIColor.css.darkSlateBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 657,
+      "symbol": "UIColor.css.darkSlateGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 658,
+      "symbol": "UIColor.css.darkSlateGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 659,
+      "symbol": "UIColor.css.darkTurquoise",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 660,
+      "symbol": "UIColor.css.darkViolet",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 661,
+      "symbol": "UIColor.css.deepPink",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 662,
+      "symbol": "UIColor.css.deepSkyBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 663,
+      "symbol": "UIColor.css.dimGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 664,
+      "symbol": "UIColor.css.dimGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 665,
+      "symbol": "UIColor.css.dodgerBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 666,
+      "symbol": "UIColor.css.fireBrick",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 667,
+      "symbol": "UIColor.css.floralWhite",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 668,
+      "symbol": "UIColor.css.forestGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 669,
+      "symbol": "UIColor.css.fuchsia",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 670,
+      "symbol": "UIColor.css.gainsboro",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 671,
+      "symbol": "UIColor.css.ghostWhite",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 672,
+      "symbol": "UIColor.css.gold",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 673,
+      "symbol": "UIColor.css.goldenRod",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 674,
+      "symbol": "UIColor.css.gray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 675,
+      "symbol": "UIColor.css.grey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 676,
+      "symbol": "UIColor.css.green",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 677,
+      "symbol": "UIColor.css.greenYellow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 678,
+      "symbol": "UIColor.css.honeyDew",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 679,
+      "symbol": "UIColor.css.hotPink",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 680,
+      "symbol": "UIColor.css.indianRed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 681,
+      "symbol": "UIColor.css.indigo",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 682,
+      "symbol": "UIColor.css.ivory",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 683,
+      "symbol": "UIColor.css.khaki",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 684,
+      "symbol": "UIColor.css.lavender",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 685,
+      "symbol": "UIColor.css.lavenderBlush",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 686,
+      "symbol": "UIColor.css.lawnGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 687,
+      "symbol": "UIColor.css.lemonChiffon",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 688,
+      "symbol": "UIColor.css.lightBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 689,
+      "symbol": "UIColor.css.lightCoral",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 690,
+      "symbol": "UIColor.css.lightCyan",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 691,
+      "symbol": "UIColor.css.lightGoldenRodYellow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 692,
+      "symbol": "UIColor.css.lightGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 693,
+      "symbol": "UIColor.css.lightGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 694,
+      "symbol": "UIColor.css.lightGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 695,
+      "symbol": "UIColor.css.lightPink",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 696,
+      "symbol": "UIColor.css.lightSalmon",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 697,
+      "symbol": "UIColor.css.lightSeaGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 698,
+      "symbol": "UIColor.css.lightSkyBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 699,
+      "symbol": "UIColor.css.lightSlateGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 700,
+      "symbol": "UIColor.css.lightSlateGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 701,
+      "symbol": "UIColor.css.lightSteelBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 702,
+      "symbol": "UIColor.css.lightYellow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 703,
+      "symbol": "UIColor.css.lime",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 704,
+      "symbol": "UIColor.css.limeGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 705,
+      "symbol": "UIColor.css.linen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 706,
+      "symbol": "UIColor.css.magenta",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 707,
+      "symbol": "UIColor.css.maroon",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 708,
+      "symbol": "UIColor.css.mediumAquaMarine",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 709,
+      "symbol": "UIColor.css.mediumBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 710,
+      "symbol": "UIColor.css.mediumOrchid",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 711,
+      "symbol": "UIColor.css.mediumPurple",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 712,
+      "symbol": "UIColor.css.mediumSeaGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 713,
+      "symbol": "UIColor.css.mediumSlateBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 714,
+      "symbol": "UIColor.css.mediumSpringGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 715,
+      "symbol": "UIColor.css.mediumTurquoise",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 716,
+      "symbol": "UIColor.css.mediumVioletRed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 717,
+      "symbol": "UIColor.css.midnightBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 718,
+      "symbol": "UIColor.css.mintCream",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 719,
+      "symbol": "UIColor.css.mistyRose",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 720,
+      "symbol": "UIColor.css.moccasin",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 721,
+      "symbol": "UIColor.css.navajoWhite",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 722,
+      "symbol": "UIColor.css.navy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 723,
+      "symbol": "UIColor.css.oldLace",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 724,
+      "symbol": "UIColor.css.olive",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 725,
+      "symbol": "UIColor.css.oliveDrab",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 726,
+      "symbol": "UIColor.css.orange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 727,
+      "symbol": "UIColor.css.orangeRed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 728,
+      "symbol": "UIColor.css.orchid",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 729,
+      "symbol": "UIColor.css.paleGoldenRod",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 730,
+      "symbol": "UIColor.css.paleGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 731,
+      "symbol": "UIColor.css.paleTurquoise",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 732,
+      "symbol": "UIColor.css.paleVioletRed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 733,
+      "symbol": "UIColor.css.papayaWhip",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 734,
+      "symbol": "UIColor.css.peachPuff",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 735,
+      "symbol": "UIColor.css.peru",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 736,
+      "symbol": "UIColor.css.pink",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 737,
+      "symbol": "UIColor.css.plum",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 738,
+      "symbol": "UIColor.css.powderBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 739,
+      "symbol": "UIColor.css.purple",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 740,
+      "symbol": "UIColor.css.rebeccaPurple",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 741,
+      "symbol": "UIColor.css.red",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 742,
+      "symbol": "UIColor.css.rosyBrown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 743,
+      "symbol": "UIColor.css.royalBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 744,
+      "symbol": "UIColor.css.saddleBrown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 745,
+      "symbol": "UIColor.css.salmon",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 746,
+      "symbol": "UIColor.css.sandyBrown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 747,
+      "symbol": "UIColor.css.seaGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 748,
+      "symbol": "UIColor.css.seaShell",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 749,
+      "symbol": "UIColor.css.sienna",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 750,
+      "symbol": "UIColor.css.silver",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 751,
+      "symbol": "UIColor.css.skyBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 752,
+      "symbol": "UIColor.css.slateBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 753,
+      "symbol": "UIColor.css.slateGray",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 754,
+      "symbol": "UIColor.css.slateGrey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 755,
+      "symbol": "UIColor.css.snow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 756,
+      "symbol": "UIColor.css.springGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 757,
+      "symbol": "UIColor.css.steelBlue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 758,
+      "symbol": "UIColor.css.tan",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 759,
+      "symbol": "UIColor.css.teal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 760,
+      "symbol": "UIColor.css.thistle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 761,
+      "symbol": "UIColor.css.tomato",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 762,
+      "symbol": "UIColor.css.turquoise",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 763,
+      "symbol": "UIColor.css.violet",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 764,
+      "symbol": "UIColor.css.wheat",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 765,
+      "symbol": "UIColor.css.white",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 766,
+      "symbol": "UIColor.css.whiteSmoke",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 767,
+      "symbol": "UIColor.css.yellow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIColorExtensions.swift",
+      "line": 768,
+      "symbol": "UIColor.css.yellowGreen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UITextFieldExtensions.swift",
+      "line": 27,
+      "symbol": "UITextField.leftViewTintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UITextFieldExtensions.swift",
+      "line": 45,
+      "symbol": "UITextField.rightViewTintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 20,
+      "symbol": "ShakeDirection.horizontal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 21,
+      "symbol": "ShakeDirection.vertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 29,
+      "symbol": "AngleUnit.degrees",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 30,
+      "symbol": "AngleUnit.radians",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 40,
+      "symbol": "ShakeAnimationType.linear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 41,
+      "symbol": "ShakeAnimationType.easeIn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 42,
+      "symbol": "ShakeAnimationType.easeOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 43,
+      "symbol": "ShakeAnimationType.easeInOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 52,
+      "symbol": "UIView.borderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 67,
+      "symbol": "UIView.borderWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 78,
+      "symbol": "UIView.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 102,
+      "symbol": "UIView.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 135,
+      "symbol": "UIView.shadowColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 146,
+      "symbol": "UIView.shadowOffset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 157,
+      "symbol": "UIView.shadowOpacity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift/Sources/Extensions/UIKit/UIViewExtensions.swift",
+      "line": 168,
+      "symbol": "UIView.shadowRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/omar/Desktop/Opensource/SwifterSwift/SwifterSwift"
+}
