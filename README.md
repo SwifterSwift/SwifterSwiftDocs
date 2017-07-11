@@ -2,12 +2,12 @@
 
 Welcome to SwifterSwift documentation!
 
-This [documentation website](http://docs.swifterswift.com) is generated using [Jazzy](https://github.com/realm/jazzy): is a command-line utility that generates documentation for Swift or Objective-C!
+The [documentation website](http://swifterswift.com/docs) is generated using [Jazzy](https://github.com/realm/jazzy): is a command-line utility that generates documentation for Swift or Objective-C!
 
 
 ## Website
 
-[docs.swifterswift.com](http://docs.swifterswift.com)
+[docs.swifterswift.com](http://swifterswift.com/docs)
 
 
 ## Looking for old documentation?
