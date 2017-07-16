@@ -7,7 +7,7 @@ The [documentation website](http://swifterswift.com/docs) is generated using [Ja
 
 ## Website
 
-[docs.swifterswift.com](http://swifterswift.com/docs)
+[swifterswift.com/docs](http://swifterswift.com/docs)
 
 
 ## Looking for old documentation?
